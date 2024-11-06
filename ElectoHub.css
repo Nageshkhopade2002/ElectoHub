@@ -1,0 +1,105 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+ul
+{
+    margin: 5px;
+    padding: 10px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+li
+{
+  text-decoration: solid;
+  color: black;
+  text-decoration: none;
+  
+}
+#img1
+{
+  height: 30px;
+  width: 60px;
+}
+header
+{
+  background-color:honeydew;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  margin-bottom: 100px;
+}
+main
+{
+  /* background-color:darkgray; */
+  position: relative;
+  padding: 30px;
+}
+#img2
+{
+  width: 100px;
+}
+#main123
+{
+  background-color: black;
+  
+}
+video
+{
+  height: 650px;
+}
+
+
+#ul1
+{
+  background-color: bisque;
+}
+.image12
+{
+  height: 100px;
+  width: 100px;
+}
+#main01
+{
+  color: black;
+  text-align: right;
+}
+button
+{
+  background-color: aqua;
+  border-radius: 40px;
+  position: relative;
+  top: 200px;
+  left: 100px;
+}
+.card{
+  cursor: pointer;
+  overflow: hidden;
+  
+}
+.card:hover
+{
+  margin: 1;
+  /* box-shadow: 10px 10px 10px black; */
+}
+.card img{
+  transition: .2s ease-out;
+}
+.card img:hover{
+  scale: 1.1;
+}
+
+footer
+{
+   height: auto;
+   /* background-color:darkgray; */
+
+}
+.list-unstyled
+{
+  text-decoration: black;
+  display: contents;
+}
+
